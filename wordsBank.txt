@@ -1,0 +1,6 @@
+hangman
+house
+science
+academy
+python
+script
